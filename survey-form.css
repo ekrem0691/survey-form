@@ -1,0 +1,12 @@
+    * {
+        margin: 5px;
+        padding: auto;
+    }
+    
+    textarea {
+        overflow-y: scroll;
+    }
+    
+    body {
+        background-image: url(./sea1.jpg);
+    }
